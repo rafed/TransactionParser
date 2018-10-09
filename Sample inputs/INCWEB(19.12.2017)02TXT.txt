@@ -1,0 +1,172 @@
+                                                                                
+ Report Header                                                                  
+                                                                                
+                                                                                
+   Application:      Instance Search                                            
+   Report type:      Instance Search - Detailed Report                          
+   Operator:         NASIMA                                                     
+   Alliance Server   Primary                                                    
+   Instance:                                                                    
+   Date - Time:      2017/12/19 12:04:10                                        
+                                                                                
+                                                                                
+ Report Content                                                                 
+                                                                                
+                                                                                
+                                                                                
+ Reprint From MFA-0000-000000                                                   
+                                                                                
+ ***    Authentication Result: Success    ***                                   
+ Instance Type and Transmission                                                 
+                                                                                
+ ***                                    Original                                
+ received from SWIFT                                                            
+ ***                                Priority Normal                             
+                                    :                                           
+ ***                                Message  0936 171219BSONBDDHAXXX2597250635  
+                                    Output                                      
+                                    Reference                                   
+                                    :                                           
+ Correspondent   1716171218CITIGB2LAXXX1557835089                               
+ Input Reference                                                                
+ :                                                                              
+ Message Header                                                                 
+                                                                                
+ Swift Output:   FIN 199 Free Format Message                                    
+ Sender :        CITIGB2LXXX                                                    
+                 CITIBANK N.A.                                                  
+       LONDON                                          GB                       
+ Receiver :      BSONBDDHXXX                                                    
+                 SONALI BANK LIMITED                                            
+                 DHAKA BD                                                       
+ MUR :           71218XBK81883LON                                               
+ Message Text                                                                   
+                                                                                
+ F20: Transaction Reference Number                                              
+           CIT171023-006985                                                     
+ F21: Related Reference                                                         
+           KH5EBD58FMWA                                                         
+ F79: Narrative                                                                 
+           THIS IS WITH REGARD TO THE BELOW PAYMENT                             
+           .                                                                    
+           REMITTER NAME STATE PENSION AND WIDOWS BENEFITS                      
+           CITIBANK TRANSACTION REF KH5EBD58FMWA                                
+           PAYMENT AMOUNT/CURRENCY GBP 220.10                                   
+           PAYMENT VALUE DATE 19-JUN-2017                                       
+           BENEFICIARY NAME ASADUR RAHMAN                                       
+           BENEFICIARY ACCOUNT NUMBER200911065                                  
+           BENEFICIARY BANK ROUTING CODE0000156101                              
+           PAYMENT METHOD MASSPAY                                               
+           .                                                                    
+           PLEASE BE ADVISED REMITTER HAS REQUESTED FOR                         
+           RECALL OF THIS PAYMENT AS INCORRECT ACCOUNT.                         
+           REQUEST YOU TO RECALL THE FUNDS FROM BENEFICIARY                     
+           AND ARRANGE TO RETURN THE SAME IN THE SIMILAR                        
+           WAY IT HAS BEEN PAID TO YOUR BANK ORIGINALLY                         
+           .                                                                    
+           KINDLY CONFIRM ON THE AMOUNT, DATE AND REFERENCE                     
+           UNDER WHICH FUNDS ARE RETURNED TO CITIBANK.                          
+           PLEASE QUOTE OUR REFERENCE CIT171023-006985 ON                       
+           ALL FUTURE CORRESPONDENCE REGARDING THIS MATTER.                     
+           REGARDS,                                                             
+           GMPS INVESTIGATIONS                                                  
+ Message Trailer                                                                
+                                                                                
+ {CHK:CC1CE75A67B2}                                                             
+ {DLM:}                                                                         
+ PKI Signature: MAC-Equivalent                                                  
+                                                                                                                                                                
+                                                                                
+ Reprint From MFA-0000-000000                                                   
+                                                                                
+ ***    Authentication Result: Success    ***                                   
+ Instance Type and Transmission                                                 
+                                                                                
+ ***                                    Original                                
+ received from SWIFT                                                            
+ ***                                Priority Normal                             
+                                    :                                           
+ ***                                Message  1857 171218BSONBDDHAXXX2596250501  
+                                    Output                                      
+                                    Reference                                   
+                                    :                                           
+ Correspondent   1257171218CITIGB2LHXXX2735843820                               
+ Input Reference                                                                
+ :                                                                              
+ Message Header                                                                 
+                                                                                
+ Swift Output:   FIN 103.STP Single Customer Credt Transfer                     
+ Sender :        CITIGB2LXXX                                                    
+                 CITIBANK N.A.                                                  
+       LONDON                                          GB                       
+ Receiver :      BSONBDDHXXX                                                    
+                 SONALI BANK LIMITED                                            
+                 DHAKA BD                                                       
+ MUR :           17C1408172006401                                               
+ Message Text                                                                   
+                                                                                
+ F20: Sender's Reference                                                        
+           3761068926                                                           
+ F23B: Bank Operation Code                                                      
+           CRED                                                                 
+ F32A: Value Date/Currency/Interbank Settled Amount                             
+           Date:          171218          2017 Dec 18                           
+           Currency:          GBP          POUND STERLING                       
+           Amount:          64,12          #64,12#                              
+ F33B: Currency/Instructed Amount                                               
+           Currency:          GBP          POUND STERLING                       
+           Amount:          64,12          #64,12#                              
+ F50K: Ordering Customer - Account - Name and Address                           
+           Account:                                                             
+                     /085340001                                                 
+           Name and Address:                                                    
+                     STATE PENSION AND WIDOWS BENEFITS                          
+                     TYNEVIEW PARK                                              
+                     NEWCASTLE UPON TYNE                                        
+                     GREAT BRITAIN GB NE98 1BA                                  
+ F52A: Ordering Institution                                                     
+           Party Identifier:                                                    
+                     /0085340000                                                
+           Identifier Code:                                                     
+                     CITIIE2XXXX                                                
+                               CITIBANK EUROPE PLC                              
+                                                                                
+                               DUBLIN IE                                        
+ F53A: Sender's Correspondent - Party Identifier - Identifier Code              
+           Identifier Code:                                                     
+                     SCBLGB2LXXX                                                
+                               STANDARD CHARTERED BANK                          
+                               (ALL U.K. OFFICES)                               
+                               LONDON GB                                        
+ F59: Beneficiary Customer - Account - Name and Address                         
+           Account:                                                             
+                     /720                                                       
+           Name and Address:          SYRIA BEGUM                               
+ F70: Remittance Information                                                    
+           BANK CODE 0000159063                                                 
+           /ROC/NW399676D                                                       
+ F71A: Details of Charges                                                       
+           OUR                                                                  
+ F72: Sender to Receiver Information                                            
+ Line1: Line 1                                                                  
+           Code:          /BNF/                                                 
+           Narrative:          SONALI TRADE AND FINANCE                         
+ Lines2to6: Lines 2-6                                                           
+           Lines2to6: Lines 2-6:          Narrative1                            
+           Narrative1:          //JAGANNATHPUR SUNAMGONJ                        
+ Message Trailer                                                                
+                                                                                
+ {CHK:0D183FD7E514}                                                             
+ PKI Signature: MAC-Equivalent                                                  
+                                                                                                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+ Report Footer                                                                  
+                                                                                
+                                                                                
+   Number of         2                                                          
+   Entities:                                                                    
+   End of report                                                                
+                                                                                

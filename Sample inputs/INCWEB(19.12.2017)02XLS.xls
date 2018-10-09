@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+	<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+		<Author/>
+		<Title/>
+		<Description>Copyright (c) 2006 &lt;&lt;Your Company Name here>></Description>
+		<Subject/>
+	</DocumentProperties>
+	<Styles>
+		<Style ss:ID="HyperlinkId" ss:Name="Hyperlink">
+			<Font ss:Color="#0000ff"/>
+		</Style>
+		<Style ss:ID="1">
+			<NumberFormat ss:Format="yyyy-M-d HH:mm:ss AM/PM"/>
+		</Style>
+		<Style ss:ID="20">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#ffffff"/>
+			<Interior ss:Color="#000000" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="26">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="24">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="23">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+			<Interior ss:Color="#d9d9d9" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="22">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="21">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="27">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="25">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="&#34;Courier New&#34;" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+	</Styles>
+	<Names>
+		<NamedRange ss:Name="__bookmark_1" ss:RefersTo="Report!R8C1:R53C7"/>
+	</Names>
+
+<Worksheet ss:Name="Report">
+	<ss:Table>
+		<ss:Column ss:Width="127.104" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="25.472" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="38.144" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="63.616" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="63.616" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="63.616" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="127.232" ss:AutoFitWidth="0"/>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="20" ss:MergeAcross="6">
+				<Data ss:Type="String">Report Header</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="1">
+				<Data ss:Type="String">Application:</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="21" ss:MergeAcross="4">
+				<Data ss:Type="String">Instance Search</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="1">
+				<Data ss:Type="String">Report type:</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="21" ss:MergeAcross="4">
+				<Data ss:Type="String">Instance Search - Detailed Report</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="1">
+				<Data ss:Type="String">Operator:</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="21" ss:MergeAcross="4">
+				<Data ss:Type="String">NASIMA</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="1">
+				<Data ss:Type="String">Alliance Server Instance:</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="21" ss:MergeAcross="4">
+				<Data ss:Type="String">Primary</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="1">
+				<Data ss:Type="String">Date - Time:</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="21" ss:MergeAcross="4">
+				<Data ss:Type="String">2017/12/19 12:03:05</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="20" ss:MergeAcross="6">
+				<Data ss:Type="String">Report Content</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="22" ss:MergeAcross="6"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="6">
+				<Data ss:Type="String">Reprint From MFA-0000-000000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="6">
+				<Data ss:Type="String">***	Authentication Result: Success	***</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="6">
+				<Data ss:Type="String">Instance Type and Transmission</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="3">
+				<Data ss:Type="String">***</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="21" ss:MergeAcross="2">
+				<Data ss:Type="String">Original</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="6">
+				<Data ss:Type="String">received from SWIFT</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="2">
+				<Data ss:Type="String">***</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="21" ss:MergeAcross="1">
+				<Data ss:Type="String">Priority :</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="21" ss:MergeAcross="1">
+				<Data ss:Type="String">Normal</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="2">
+				<Data ss:Type="String">***</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="21" ss:MergeAcross="1">
+				<Data ss:Type="String">Message Output Reference :</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="21" ss:MergeAcross="1">
+				<Data ss:Type="String">0936 171219BSONBDDHAXXX2597250635</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21">
+				<Data ss:Type="String">Correspondent Input Reference :</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="21" ss:MergeAcross="5">
+				<Data ss:Type="String">1716171218CITIGB2LAXXX1557835089</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="6">
+				<Data ss:Type="String">Message Header</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21">
+				<Data ss:Type="String">Swift Output:</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="21" ss:MergeAcross="5">
+				<Data ss:Type="String">FIN 199 Free Format Message</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21">
+				<Data ss:Type="String">Sender :</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="21" ss:MergeAcross="5">
+				<Data ss:Type="String">CITIGB2LXXX</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="21" ss:MergeAcross="5">
+				<Data ss:Type="String">CITIBANK N.A.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="21" ss:MergeAcross="2">
+				<Data ss:Type="String">LONDON</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="21" ss:MergeAcross="1">
+				<Data ss:Type="String"> </Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="21">
+				<Data ss:Type="String">GB</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21">
+				<Data ss:Type="String">Receiver :</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="21" ss:MergeAcross="5">
+				<Data ss:Type="String">BSONBDDHXXX</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="21" ss:MergeAcross="5">
+				<Data ss:Type="String">SONALI BANK LIMITED</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="21" ss:MergeAcross="5">
+				<Data ss:Type="String">DHAKA BD</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21">
+				<Data ss:Type="String">MUR :</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="21" ss:MergeAcross="5">
+				<Data ss:Type="String">71218XBK81883LON</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="6">
+				<Data ss:Type="String">Message Text</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25" ss:MergeAcross="6">
+				<Data ss:Type="String">F20: Transaction Reference Number&#10;          CIT171023-006985          &#10;F21: Related Reference&#10;          KH5EBD58FMWA          &#10;F79: Narrative&#10;          THIS IS WITH REGARD TO THE BELOW PAYMENT&#10;          .&#10;          REMITTER NAME STATE PENSION AND WIDOWS BENEFITS&#10;          CITIBANK TRANSACTION REF KH5EBD58FMWA&#10;          PAYMENT AMOUNT/CURRENCY GBP 220.10&#10;          PAYMENT VALUE DATE 19-JUN-2017&#10;          BENEFICIARY NAME ASADUR RAHMAN&#10;          BENEFICIARY ACCOUNT NUMBER200911065&#10;          BENEFICIARY BANK ROUTING CODE0000156101&#10;          PAYMENT METHOD MASSPAY&#10;          .&#10;          PLEASE BE ADVISED REMITTER HAS REQUESTED FOR&#10;          RECALL OF THIS PAYMENT AS INCORRECT ACCOUNT.&#10;          REQUEST YOU TO RECALL THE FUNDS FROM BENEFICIARY&#10;          AND ARRANGE TO RETURN THE SAME IN THE SIMILAR&#10;          WAY IT HAS BEEN PAID TO YOUR BANK ORIGINALLY&#10;          .&#10;          KINDLY CONFIRM ON THE AMOUNT, DATE AND REFERENCE&#10;          UNDER WHICH FUNDS ARE RETURNED TO CITIBANK.&#10;          PLEASE QUOTE OUR REFERENCE CIT171023-006985 ON&#10;          ALL FUTURE CORRESPONDENCE REGARDING THIS MATTER.&#10;          REGARDS,&#10;          GMPS INVESTIGATIONS</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="6">
+				<Data ss:Type="String">Message Trailer</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="6">
+				<Data ss:Type="String">{CHK:CC1CE75A67B2}&#10;{DLM:}</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="6">
+				<Data ss:Type="String">PKI Signature: MAC-Equivalent</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="6">
+				<Data ss:Type="String">Reprint From MFA-0000-000000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="6">
+				<Data ss:Type="String">***	Authentication Result: Success	***</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="6">
+				<Data ss:Type="String">Instance Type and Transmission</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="3">
+				<Data ss:Type="String">***</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="21" ss:MergeAcross="2">
+				<Data ss:Type="String">Original</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="6">
+				<Data ss:Type="String">received from SWIFT</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="2">
+				<Data ss:Type="String">***</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="21" ss:MergeAcross="1">
+				<Data ss:Type="String">Priority :</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="21" ss:MergeAcross="1">
+				<Data ss:Type="String">Normal</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="2">
+				<Data ss:Type="String">***</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="21" ss:MergeAcross="1">
+				<Data ss:Type="String">Message Output Reference :</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="21" ss:MergeAcross="1">
+				<Data ss:Type="String">1857 171218BSONBDDHAXXX2596250501</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21">
+				<Data ss:Type="String">Correspondent Input Reference :</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="21" ss:MergeAcross="5">
+				<Data ss:Type="String">1257171218CITIGB2LHXXX2735843820</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="6">
+				<Data ss:Type="String">Message Header</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21">
+				<Data ss:Type="String">Swift Output:</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="21" ss:MergeAcross="5">
+				<Data ss:Type="String">FIN 103.STP Single Customer Credt Transfer</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21">
+				<Data ss:Type="String">Sender :</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="21" ss:MergeAcross="5">
+				<Data ss:Type="String">CITIGB2LXXX</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="21" ss:MergeAcross="5">
+				<Data ss:Type="String">CITIBANK N.A.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="21" ss:MergeAcross="2">
+				<Data ss:Type="String">LONDON</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="21" ss:MergeAcross="1">
+				<Data ss:Type="String"> </Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="21">
+				<Data ss:Type="String">GB</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21">
+				<Data ss:Type="String">Receiver :</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="21" ss:MergeAcross="5">
+				<Data ss:Type="String">BSONBDDHXXX</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="21" ss:MergeAcross="5">
+				<Data ss:Type="String">SONALI BANK LIMITED</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="21" ss:MergeAcross="5">
+				<Data ss:Type="String">DHAKA BD</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21">
+				<Data ss:Type="String">MUR :</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="21" ss:MergeAcross="5">
+				<Data ss:Type="String">17C1408172006401</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="6">
+				<Data ss:Type="String">Message Text</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25" ss:MergeAcross="6">
+				<Data ss:Type="String">F20: Sender's Reference&#10;          3761068926          &#10;F23B: Bank Operation Code&#10;          CRED          &#10;F32A: Value Date/Currency/Interbank Settled Amount&#10;          Date:          171218          2017 Dec 18&#10;          Currency:          GBP          POUND STERLING&#10;          Amount:          64,12          #64,12#&#10;F33B: Currency/Instructed Amount&#10;          Currency:          GBP          POUND STERLING&#10;          Amount:          64,12          #64,12#&#10;F50K: Ordering Customer - Account - Name and Address&#10;          Account:&#10;                    /085340001&#10;          Name and Address:&#10;                    STATE PENSION AND WIDOWS BENEFITS&#10;                    TYNEVIEW PARK&#10;                    NEWCASTLE UPON TYNE&#10;                    GREAT BRITAIN GB NE98 1BA&#10;F52A: Ordering Institution&#10;          Party Identifier:&#10;                    /0085340000&#10;          Identifier Code:&#10;                    CITIIE2XXXX&#10;                              CITIBANK EUROPE PLC&#10;                              &#10;                              DUBLIN IE&#10;F53A: Sender's Correspondent - Party Identifier - Identifier Code&#10;          Identifier Code:&#10;                    SCBLGB2LXXX&#10;                              STANDARD CHARTERED BANK&#10;                              (ALL U.K. OFFICES)&#10;                              LONDON GB&#10;F59: Beneficiary Customer - Account - Name and Address&#10;          Account:&#10;                    /720&#10;          Name and Address:          SYRIA BEGUM          &#10;F70: Remittance Information&#10;          BANK CODE 0000159063&#10;          /ROC/NW399676D&#10;F71A: Details of Charges&#10;          OUR          &#10;F72: Sender to Receiver Information&#10;Line1: Line 1&#10;          Code:          /BNF/          &#10;          Narrative:          SONALI TRADE AND FINANCE          &#10;Lines2to6: Lines 2-6&#10;          Lines2to6: Lines 2-6:          Narrative1          &#10;          Narrative1:          //JAGANNATHPUR SUNAMGONJ</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="6">
+				<Data ss:Type="String">Message Trailer</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="6">
+				<Data ss:Type="String">{CHK:0D183FD7E514}</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="6">
+				<Data ss:Type="String">PKI Signature: MAC-Equivalent</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26" ss:MergeAcross="6"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="20" ss:MergeAcross="6">
+				<Data ss:Type="String">Report Footer</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="1">
+				<Data ss:Type="String">Number of Entities:</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="27" ss:MergeAcross="4">
+				<Data ss:Type="Number">2</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="6">
+				<Data ss:Type="String">End of report</Data>
+			</Cell>
+		</Row>
+	</ss:Table>
+	<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+		<PageSetup>
+			<PageMargins x:Bottom="0.5" x:Left="0.59998614" x:Right="0.59998614" x:Top="0.5"/>
+			<Layout x:Orientation="Portrait"/>
+			<Header/>
+			<Footer/>
+		</PageSetup>
+		<Print>
+			<PaperSizeIndex>9</PaperSizeIndex>
+		</Print>
+	</WorksheetOptions>
+</Worksheet>
+</Workbook>

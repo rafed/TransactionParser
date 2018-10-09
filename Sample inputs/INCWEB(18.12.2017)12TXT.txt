@@ -1,0 +1,1026 @@
+                                                                                
+ Report Header                                                                  
+                                                                                
+                                                                                
+   Application:      Instance Search                                            
+   Report type:      Instance Search - Detailed Report                          
+   Operator:         NASIMA                                                     
+   Alliance Server   Primary                                                    
+   Instance:                                                                    
+   Date - Time:      2017/12/18 11:16:09                                        
+                                                                                
+                                                                                
+ Report Content                                                                 
+                                                                                
+                                                                                
+                                                                                
+ Reprint From MFA-0000-000000                                                   
+                                                                                
+ ***    Authentication Result: Success    ***                                   
+ Instance Type and Transmission                                                 
+                                                                                
+ ***                                    Original                                
+ received from SWIFT                                                            
+ ***                                Priority Normal                             
+                                    :                                           
+ ***                                Message  0938 171218BSONBDDHAXXX2596250277  
+                                    Output                                      
+                                    Reference                                   
+                                    :                                           
+ Correspondent   0315171218CITIGB2LEXXX3726283397                               
+ Input Reference                                                                
+ :                                                                              
+ Message Header                                                                 
+                                                                                
+ Swift Output:   FIN 103.STP Single Customer Credt Transfer                     
+ Sender :        CITIGB2LXXX                                                    
+                 CITIBANK N.A.                                                  
+       LONDON                                          GB                       
+ Receiver :      BSONBDDHXXX                                                    
+                 SONALI BANK LIMITED                                            
+                 DHAKA BD                                                       
+ MUR :           17C1408172005X01                                               
+ Message Text                                                                   
+                                                                                
+ F20: Sender's Reference                                                        
+           3761068928                                                           
+ F23B: Bank Operation Code                                                      
+           CRED                                                                 
+ F32A: Value Date/Currency/Interbank Settled Amount                             
+           Date:          171218          2017 Dec 18                           
+           Currency:          GBP          POUND STERLING                       
+           Amount:          44,84          #44,84#                              
+ F33B: Currency/Instructed Amount                                               
+           Currency:          GBP          POUND STERLING                       
+           Amount:          44,84          #44,84#                              
+ F50K: Ordering Customer - Account - Name and Address                           
+           Account:                                                             
+                     /085340001                                                 
+           Name and Address:                                                    
+                     STATE PENSION AND WIDOWS BENEFITS                          
+                     TYNEVIEW PARK                                              
+                     NEWCASTLE UPON TYNE                                        
+                     GREAT BRITAIN GB NE98 1BA                                  
+ F52A: Ordering Institution                                                     
+           Party Identifier:                                                    
+                     /0085340000                                                
+           Identifier Code:                                                     
+                     CITIIE2XXXX                                                
+                               CITIBANK EUROPE PLC                              
+                                                                                
+                               DUBLIN IE                                        
+ F53A: Sender's Correspondent - Party Identifier - Identifier Code              
+           Identifier Code:                                                     
+                     SCBLGB2LXXX                                                
+                               STANDARD CHARTERED BANK                          
+                               (ALL U.K. OFFICES)                               
+                               LONDON GB                                        
+ F59: Beneficiary Customer - Account - Name and Address                         
+           Account:                                                             
+                     /SB318                                                     
+           Name and Address:          BEGUM R KHANOM                            
+ F70: Remittance Information                                                    
+           BANK CODE 0000158131                                                 
+           /ROC/NY095374D                                                       
+ F71A: Details of Charges                                                       
+           OUR                                                                  
+ F72: Sender to Receiver Information                                            
+ Line1: Line 1                                                                  
+           Code:          /BNF/                                                 
+           Narrative:          SONALI TRADE AND FINANCE                         
+ Lines2to6: Lines 2-6                                                           
+           Lines2to6: Lines 2-6:          Narrative1                            
+           Narrative1:          //MUNSHI BAZAR                                  
+ Message Trailer                                                                
+                                                                                
+ {CHK:4BBB3D351939}                                                             
+ PKI Signature: MAC-Equivalent                                                  
+                                                                                                                                                                
+                                                                                
+ Reprint From MFA-0000-000000                                                   
+                                                                                
+ ***    Authentication Result: Success    ***                                   
+ Instance Type and Transmission                                                 
+                                                                                
+ ***                                    Original                                
+ received from SWIFT                                                            
+ ***                                Priority Normal                             
+                                    :                                           
+ ***                                Message  0938 171218BSONBDDHAXXX2596250276  
+                                    Output                                      
+                                    Reference                                   
+                                    :                                           
+ Correspondent   0315171218CITIGB2LNXXX0629005481                               
+ Input Reference                                                                
+ :                                                                              
+ Message Header                                                                 
+                                                                                
+ Swift Output:   FIN 103.STP Single Customer Credt Transfer                     
+ Sender :        CITIGB2LXXX                                                    
+                 CITIBANK N.A.                                                  
+       LONDON                                          GB                       
+ Receiver :      BSONBDDHXXX                                                    
+                 SONALI BANK LIMITED                                            
+                 DHAKA BD                                                       
+ MUR :           17C1408172000Q01                                               
+ Message Text                                                                   
+                                                                                
+ F20: Sender's Reference                                                        
+           3761068932                                                           
+ F23B: Bank Operation Code                                                      
+           CRED                                                                 
+ F32A: Value Date/Currency/Interbank Settled Amount                             
+           Date:          171218          2017 Dec 18                           
+           Currency:          GBP          POUND STERLING                       
+           Amount:          36,08          #36,08#                              
+ F33B: Currency/Instructed Amount                                               
+           Currency:          GBP          POUND STERLING                       
+           Amount:          36,08          #36,08#                              
+ F50K: Ordering Customer - Account - Name and Address                           
+           Account:                                                             
+                     /085340001                                                 
+           Name and Address:                                                    
+                     STATE PENSION AND WIDOWS BENEFITS                          
+                     TYNEVIEW PARK                                              
+                     NEWCASTLE UPON TYNE                                        
+                     GREAT BRITAIN GB NE98 1BA                                  
+ F52A: Ordering Institution                                                     
+           Party Identifier:                                                    
+                     /0085340000                                                
+           Identifier Code:                                                     
+                     CITIIE2XXXX                                                
+                               CITIBANK EUROPE PLC                              
+                                                                                
+                               DUBLIN IE                                        
+ F53A: Sender's Correspondent - Party Identifier - Identifier Code              
+           Identifier Code:                                                     
+                     SCBLGB2LXXX                                                
+                               STANDARD CHARTERED BANK                          
+                               (ALL U.K. OFFICES)                               
+                               LONDON GB                                        
+ F59: Beneficiary Customer - Account - Name and Address                         
+           Account:                                                             
+                     /8385                                                      
+           Name and Address:          AMBIA BEGUM                               
+ F70: Remittance Information                                                    
+           BANK CODE 0000156101                                                 
+           /ROC/JA162770C                                                       
+ F71A: Details of Charges                                                       
+           OUR                                                                  
+ F72: Sender to Receiver Information                                            
+ Line1: Line 1                                                                  
+           Code:          /BNF/                                                 
+           Narrative:          SONALI TRADE AND FINANCE                         
+ Lines2to6: Lines 2-6                                                           
+           Lines2to6: Lines 2-6:          Narrative1                            
+           Narrative1:          //DARGAGATE SYLHET                              
+ Message Trailer                                                                
+                                                                                
+ {CHK:E9E44E5B45B4}                                                             
+ PKI Signature: MAC-Equivalent                                                  
+                                                                                                                                                                
+                                                                                
+ Reprint From MFA-0000-000000                                                   
+                                                                                
+ ***    Authentication Result: Success    ***                                   
+ Instance Type and Transmission                                                 
+                                                                                
+ ***                                    Original                                
+ received from SWIFT                                                            
+ ***                                Priority Normal                             
+                                    :                                           
+ ***                                Message  0938 171218BSONBDDHAXXX2596250275  
+                                    Output                                      
+                                    Reference                                   
+                                    :                                           
+ Correspondent   0315171218CITIGB2LFXXX3670032287                               
+ Input Reference                                                                
+ :                                                                              
+ Message Header                                                                 
+                                                                                
+ Swift Output:   FIN 103.STP Single Customer Credt Transfer                     
+ Sender :        CITIGB2LXXX                                                    
+                 CITIBANK N.A.                                                  
+       LONDON                                          GB                       
+ Receiver :      BSONBDDHXXX                                                    
+                 SONALI BANK LIMITED                                            
+                 DHAKA BD                                                       
+ MUR :           17C1408171005U00                                               
+ Message Text                                                                   
+                                                                                
+ F20: Sender's Reference                                                        
+           3761068891                                                           
+ F23B: Bank Operation Code                                                      
+           CRED                                                                 
+ F32A: Value Date/Currency/Interbank Settled Amount                             
+           Date:          171218          2017 Dec 18                           
+           Currency:          GBP          POUND STERLING                       
+           Amount:          54,84          #54,84#                              
+ F33B: Currency/Instructed Amount                                               
+           Currency:          GBP          POUND STERLING                       
+           Amount:          54,84          #54,84#                              
+ F50K: Ordering Customer - Account - Name and Address                           
+           Account:                                                             
+                     /085340001                                                 
+           Name and Address:                                                    
+                     STATE PENSION AND WIDOWS BENEFITS                          
+                     TYNEVIEW PARK                                              
+                     NEWCASTLE UPON TYNE                                        
+                     GREAT BRITAIN GB NE98 1BA                                  
+ F52A: Ordering Institution                                                     
+           Party Identifier:                                                    
+                     /0085340000                                                
+           Identifier Code:                                                     
+                     CITIIE2XXXX                                                
+                               CITIBANK EUROPE PLC                              
+                                                                                
+                               DUBLIN IE                                        
+ F53A: Sender's Correspondent - Party Identifier - Identifier Code              
+           Identifier Code:                                                     
+                     SCBLGB2LXXX                                                
+                               STANDARD CHARTERED BANK                          
+                               (ALL U.K. OFFICES)                               
+                               LONDON GB                                        
+ F59: Beneficiary Customer - Account - Name and Address                         
+           Account:                                                             
+                     /3403                                                      
+           Name and Address:          ANWARA BEGUM                              
+ F70: Remittance Information                                                    
+           BANK CODE 0000156267                                                 
+           /ROC/NZ523868A                                                       
+ F71A: Details of Charges                                                       
+           OUR                                                                  
+ F72: Sender to Receiver Information                                            
+ Line1: Line 1                                                                  
+           Code:          /BNF/                                                 
+           Narrative:          SONALI TRADE AND FINANCE                         
+ Lines2to6: Lines 2-6                                                           
+           Lines2to6: Lines 2-6:          Narrative1                            
+           Narrative1:          //STATION ROAD SYLHET                           
+ Message Trailer                                                                
+                                                                                
+ {CHK:D116BBF58D2D}                                                             
+ PKI Signature: MAC-Equivalent                                                  
+                                                                                                                                                                
+                                                                                
+ Reprint From MFA-0000-000000                                                   
+                                                                                
+ ***    Authentication Result: Success    ***                                   
+ Instance Type and Transmission                                                 
+                                                                                
+ ***                                    Original                                
+ received from SWIFT                                                            
+ ***                                Priority Normal                             
+                                    :                                           
+ ***                                Message  0938 171218BSONBDDHAXXX2596250274  
+                                    Output                                      
+                                    Reference                                   
+                                    :                                           
+ Correspondent   0315171218CITIGB2LGXXX2862029388                               
+ Input Reference                                                                
+ :                                                                              
+ Message Header                                                                 
+                                                                                
+ Swift Output:   FIN 103.STP Single Customer Credt Transfer                     
+ Sender :        CITIGB2LXXX                                                    
+                 CITIBANK N.A.                                                  
+       LONDON                                          GB                       
+ Receiver :      BSONBDDHXXX                                                    
+                 SONALI BANK LIMITED                                            
+                 DHAKA BD                                                       
+ MUR :           17C1408172000P00                                               
+ Message Text                                                                   
+                                                                                
+ F20: Sender's Reference                                                        
+           3761068923                                                           
+ F23B: Bank Operation Code                                                      
+           CRED                                                                 
+ F32A: Value Date/Currency/Interbank Settled Amount                             
+           Date:          171218          2017 Dec 18                           
+           Currency:          GBP          POUND STERLING                       
+           Amount:          34,96          #34,96#                              
+ F33B: Currency/Instructed Amount                                               
+           Currency:          GBP          POUND STERLING                       
+           Amount:          34,96          #34,96#                              
+ F50K: Ordering Customer - Account - Name and Address                           
+           Account:                                                             
+                     /085340001                                                 
+           Name and Address:                                                    
+                     STATE PENSION AND WIDOWS BENEFITS                          
+                     TYNEVIEW PARK                                              
+                     NEWCASTLE UPON TYNE                                        
+                     GREAT BRITAIN GB NE98 1BA                                  
+ F52A: Ordering Institution                                                     
+           Party Identifier:                                                    
+                     /0085340000                                                
+           Identifier Code:                                                     
+                     CITIIE2XXXX                                                
+                               CITIBANK EUROPE PLC                              
+                                                                                
+                               DUBLIN IE                                        
+ F53A: Sender's Correspondent - Party Identifier - Identifier Code              
+           Identifier Code:                                                     
+                     SCBLGB2LXXX                                                
+                               STANDARD CHARTERED BANK                          
+                               (ALL U.K. OFFICES)                               
+                               LONDON GB                                        
+ F59: Beneficiary Customer - Account - Name and Address                         
+           Account:                                                             
+                     /SB979                                                     
+           Name and Address:          SHAFIA BEGUM                              
+ F70: Remittance Information                                                    
+           BANK CODE 0000159030                                                 
+           /ROC/NY610578A                                                       
+ F71A: Details of Charges                                                       
+           OUR                                                                  
+ F72: Sender to Receiver Information                                            
+ Line1: Line 1                                                                  
+           Code:          /BNF/                                                 
+           Narrative:          SONALI TRADE AND FINANCE DERAI                   
+ Lines2to6: Lines 2-6                                                           
+           Lines2to6: Lines 2-6:          Narrative1                            
+           Narrative1:          //SUNAGONJ                                      
+ Message Trailer                                                                
+                                                                                
+ {CHK:A5CF6DBCAA63}                                                             
+ PKI Signature: MAC-Equivalent                                                  
+                                                                                                                                                                
+                                                                                
+ Reprint From MFA-0000-000000                                                   
+                                                                                
+ ***    Authentication Result: Success    ***                                   
+ Instance Type and Transmission                                                 
+                                                                                
+ ***                                    Original                                
+ received from SWIFT                                                            
+ ***                                Priority Normal                             
+                                    :                                           
+ ***                                Message  0938 171218BSONBDDHAXXX2596250273  
+                                    Output                                      
+                                    Reference                                   
+                                    :                                           
+ Correspondent   0315171218CITIGB2LGXXX2862029387                               
+ Input Reference                                                                
+ :                                                                              
+ Message Header                                                                 
+                                                                                
+ Swift Output:   FIN 103.STP Single Customer Credt Transfer                     
+ Sender :        CITIGB2LXXX                                                    
+                 CITIBANK N.A.                                                  
+       LONDON                                          GB                       
+ Receiver :      BSONBDDHXXX                                                    
+                 SONALI BANK LIMITED                                            
+                 DHAKA BD                                                       
+ MUR :           17C1408171906400                                               
+ Message Text                                                                   
+                                                                                
+ F20: Sender's Reference                                                        
+           3761068904                                                           
+ F23B: Bank Operation Code                                                      
+           CRED                                                                 
+ F32A: Value Date/Currency/Interbank Settled Amount                             
+           Date:          171218          2017 Dec 18                           
+           Currency:          GBP          POUND STERLING                       
+           Amount:          52,92          #52,92#                              
+ F33B: Currency/Instructed Amount                                               
+           Currency:          GBP          POUND STERLING                       
+           Amount:          52,92          #52,92#                              
+ F50K: Ordering Customer - Account - Name and Address                           
+           Account:                                                             
+                     /085340001                                                 
+           Name and Address:                                                    
+                     STATE PENSION AND WIDOWS BENEFITS                          
+                     TYNEVIEW PARK                                              
+                     NEWCASTLE UPON TYNE                                        
+                     GREAT BRITAIN GB NE98 1BA                                  
+ F52A: Ordering Institution                                                     
+           Party Identifier:                                                    
+                     /0085340000                                                
+           Identifier Code:                                                     
+                     CITIIE2XXXX                                                
+                               CITIBANK EUROPE PLC                              
+                                                                                
+                               DUBLIN IE                                        
+ F53A: Sender's Correspondent - Party Identifier - Identifier Code              
+           Identifier Code:                                                     
+                     SCBLGB2LXXX                                                
+                               STANDARD CHARTERED BANK                          
+                               (ALL U.K. OFFICES)                               
+                               LONDON GB                                        
+ F59: Beneficiary Customer - Account - Name and Address                         
+           Account:                                                             
+                     /SB1299                                                    
+           Name and Address:          JOYDHON BIBI                              
+ F70: Remittance Information                                                    
+           BANK CODE 0000156085                                                 
+           /ROC/NY666574D                                                       
+ F71A: Details of Charges                                                       
+           OUR                                                                  
+ F72: Sender to Receiver Information                                            
+ Line1: Line 1                                                                  
+           Code:          /BNF/                                                 
+           Narrative:          SONALI BANK COURT BUILDING                       
+ Lines2to6: Lines 2-6                                                           
+           Lines2to6: Lines 2-6:          Narrative1                            
+           Narrative1:          //SYLHET                                        
+ Message Trailer                                                                
+                                                                                
+ {CHK:8C60850A1579}                                                             
+ PKI Signature: MAC-Equivalent                                                  
+                                                                                                                                                                
+                                                                                
+ Reprint From MFA-0000-000000                                                   
+                                                                                
+ ***    Authentication Result: Success    ***                                   
+ Instance Type and Transmission                                                 
+                                                                                
+ ***                                    Original                                
+ received from SWIFT                                                            
+ ***                                Priority Normal                             
+                                    :                                           
+ ***                                Message  0938 171218BSONBDDHAXXX2596250272  
+                                    Output                                      
+                                    Reference                                   
+                                    :                                           
+ Correspondent   0315171218CITIGB2LEXXX3726283363                               
+ Input Reference                                                                
+ :                                                                              
+ Message Header                                                                 
+                                                                                
+ Swift Output:   FIN 103.STP Single Customer Credt Transfer                     
+ Sender :        CITIGB2LXXX                                                    
+                 CITIBANK N.A.                                                  
+       LONDON                                          GB                       
+ Receiver :      BSONBDDHXXX                                                    
+                 SONALI BANK LIMITED                                            
+                 DHAKA BD                                                       
+ MUR :           17C1408172005U01                                               
+ Message Text                                                                   
+                                                                                
+ F20: Sender's Reference                                                        
+           3761068929                                                           
+ F23B: Bank Operation Code                                                      
+           CRED                                                                 
+ F32A: Value Date/Currency/Interbank Settled Amount                             
+           Date:          171218          2017 Dec 18                           
+           Currency:          GBP          POUND STERLING                       
+           Amount:          52,56          #52,56#                              
+ F33B: Currency/Instructed Amount                                               
+           Currency:          GBP          POUND STERLING                       
+           Amount:          52,56          #52,56#                              
+ F50K: Ordering Customer - Account - Name and Address                           
+           Account:                                                             
+                     /085340001                                                 
+           Name and Address:                                                    
+                     STATE PENSION AND WIDOWS BENEFITS                          
+                     TYNEVIEW PARK                                              
+                     NEWCASTLE UPON TYNE                                        
+                     GREAT BRITAIN GB NE98 1BA                                  
+ F52A: Ordering Institution                                                     
+           Party Identifier:                                                    
+                     /0085340000                                                
+           Identifier Code:                                                     
+                     CITIIE2XXXX                                                
+                               CITIBANK EUROPE PLC                              
+                                                                                
+                               DUBLIN IE                                        
+ F53A: Sender's Correspondent - Party Identifier - Identifier Code              
+           Identifier Code:                                                     
+                     SCBLGB2LXXX                                                
+                               STANDARD CHARTERED BANK                          
+                               (ALL U.K. OFFICES)                               
+                               LONDON GB                                        
+ F59: Beneficiary Customer - Account - Name and Address                         
+           Account:                                                             
+                     /SB3607                                                    
+           Name and Address:          SUFIA KHATUN                              
+ F70: Remittance Information                                                    
+           BANK CODE 0000156291                                                 
+           /ROC/NZ756771A                                                       
+ F71A: Details of Charges                                                       
+           OUR                                                                  
+ F72: Sender to Receiver Information                                            
+ Line1: Line 1                                                                  
+           Code:          /BNF/                                                 
+           Narrative:          SONALI TRADE AND FINANCE                         
+ Lines2to6: Lines 2-6                                                           
+           Lines2to6: Lines 2-6:          Narrative1                            
+           Narrative1:          //TAJPUR SYLHET                                 
+ Message Trailer                                                                
+                                                                                
+ {CHK:E167FBA996CA}                                                             
+ PKI Signature: MAC-Equivalent                                                  
+                                                                                                                                                                
+                                                                                
+ Reprint From MFA-0000-000000                                                   
+                                                                                
+ ***    Authentication Result: Success    ***                                   
+ Instance Type and Transmission                                                 
+                                                                                
+ ***                                    Original                                
+ received from SWIFT                                                            
+ ***                                Priority Normal                             
+                                    :                                           
+ ***                                Message  0938 171218BSONBDDHAXXX2596250271  
+                                    Output                                      
+                                    Reference                                   
+                                    :                                           
+ Correspondent   0315171218CITIGB2LNXXX0629005427                               
+ Input Reference                                                                
+ :                                                                              
+ Message Header                                                                 
+                                                                                
+ Swift Output:   FIN 103.STP Single Customer Credt Transfer                     
+ Sender :        CITIGB2LXXX                                                    
+                 CITIBANK N.A.                                                  
+       LONDON                                          GB                       
+ Receiver :      BSONBDDHXXX                                                    
+                 SONALI BANK LIMITED                                            
+                 DHAKA BD                                                       
+ MUR :           17C1408172006500                                               
+ Message Text                                                                   
+                                                                                
+ F20: Sender's Reference                                                        
+           3761068925                                                           
+ F23B: Bank Operation Code                                                      
+           CRED                                                                 
+ F32A: Value Date/Currency/Interbank Settled Amount                             
+           Date:          171218          2017 Dec 18                           
+           Currency:          GBP          POUND STERLING                       
+           Amount:          121,36          #121,36#                            
+ F33B: Currency/Instructed Amount                                               
+           Currency:          GBP          POUND STERLING                       
+           Amount:          121,36          #121,36#                            
+ F50K: Ordering Customer - Account - Name and Address                           
+           Account:                                                             
+                     /085340001                                                 
+           Name and Address:                                                    
+                     STATE PENSION AND WIDOWS BENEFITS                          
+                     TYNEVIEW PARK                                              
+                     NEWCASTLE UPON TYNE                                        
+                     GREAT BRITAIN GB NE98 1BA                                  
+ F52A: Ordering Institution                                                     
+           Party Identifier:                                                    
+                     /0085340000                                                
+           Identifier Code:                                                     
+                     CITIIE2XXXX                                                
+                               CITIBANK EUROPE PLC                              
+                                                                                
+                               DUBLIN IE                                        
+ F53A: Sender's Correspondent - Party Identifier - Identifier Code              
+           Identifier Code:                                                     
+                     SCBLGB2LXXX                                                
+                               STANDARD CHARTERED BANK                          
+                               (ALL U.K. OFFICES)                               
+                               LONDON GB                                        
+ F59: Beneficiary Customer - Account - Name and Address                         
+           Account:                                                             
+                     /3064                                                      
+           Name and Address:          RUKSANA BEGUM                             
+ F70: Remittance Information                                                    
+           BANK CODE 0000156093                                                 
+           /ROC/SH273868A                                                       
+ F71A: Details of Charges                                                       
+           OUR                                                                  
+ F72: Sender to Receiver Information                                            
+ Line1: Line 1                                                                  
+           Code:          /BNF/                                                 
+           Narrative:          SONALI BANK DAKSHIN FENCHUGOJ                    
+ Lines2to6: Lines 2-6                                                           
+           Lines2to6: Lines 2-6:          Narrative1                            
+           Narrative1:          //SYLHET                                        
+ Message Trailer                                                                
+                                                                                
+ {CHK:5683C0392F1D}                                                             
+ PKI Signature: MAC-Equivalent                                                  
+                                                                                                                                                                
+                                                                                
+ Reprint From MFA-0000-000000                                                   
+                                                                                
+ ***    Authentication Result: Success    ***                                   
+ Instance Type and Transmission                                                 
+                                                                                
+ ***                                    Original                                
+ received from SWIFT                                                            
+ ***                                Priority Normal                             
+                                    :                                           
+ ***                                Message  0938 171218BSONBDDHAXXX2596250270  
+                                    Output                                      
+                                    Reference                                   
+                                    :                                           
+ Correspondent   0315171218CITIGB2LNXXX0629005425                               
+ Input Reference                                                                
+ :                                                                              
+ Message Header                                                                 
+                                                                                
+ Swift Output:   FIN 103.STP Single Customer Credt Transfer                     
+ Sender :        CITIGB2LXXX                                                    
+                 CITIBANK N.A.                                                  
+       LONDON                                          GB                       
+ Receiver :      BSONBDDHXXX                                                    
+                 SONALI BANK LIMITED                                            
+                 DHAKA BD                                                       
+ MUR :           17C1408172006B00                                               
+ Message Text                                                                   
+                                                                                
+ F20: Sender's Reference                                                        
+           3761068921                                                           
+ F23B: Bank Operation Code                                                      
+           CRED                                                                 
+ F32A: Value Date/Currency/Interbank Settled Amount                             
+           Date:          171218          2017 Dec 18                           
+           Currency:          GBP          POUND STERLING                       
+           Amount:          49,64          #49,64#                              
+ F33B: Currency/Instructed Amount                                               
+           Currency:          GBP          POUND STERLING                       
+           Amount:          49,64          #49,64#                              
+ F50K: Ordering Customer - Account - Name and Address                           
+           Account:                                                             
+                     /085340001                                                 
+           Name and Address:                                                    
+                     STATE PENSION AND WIDOWS BENEFITS                          
+                     TYNEVIEW PARK                                              
+                     NEWCASTLE UPON TYNE                                        
+                     GREAT BRITAIN GB NE98 1BA                                  
+ F52A: Ordering Institution                                                     
+           Party Identifier:                                                    
+                     /0085340000                                                
+           Identifier Code:                                                     
+                     CITIIE2XXXX                                                
+                               CITIBANK EUROPE PLC                              
+                                                                                
+                               DUBLIN IE                                        
+ F53A: Sender's Correspondent - Party Identifier - Identifier Code              
+           Identifier Code:                                                     
+                     SCBLGB2LXXX                                                
+                               STANDARD CHARTERED BANK                          
+                               (ALL U.K. OFFICES)                               
+                               LONDON GB                                        
+ F59: Beneficiary Customer - Account - Name and Address                         
+           Account:                                                             
+                     /8944                                                      
+           Name and Address:          SOFINA B CHOWDHURY                        
+ F70: Remittance Information                                                    
+           BANK CODE 0000157059                                                 
+           /ROC/PW440377B                                                       
+ F71A: Details of Charges                                                       
+           OUR                                                                  
+ F72: Sender to Receiver Information                                            
+ Line1: Line 1                                                                  
+           Code:          /BNF/                                                 
+           Narrative:          SONALI TRADE AND FINANCE                         
+ Lines2to6: Lines 2-6                                                           
+           Lines2to6: Lines 2-6:          Narrative1                            
+           Narrative1:          //HABIGANJ HABIGANJ                             
+ Message Trailer                                                                
+                                                                                
+ {CHK:93D68E417E19}                                                             
+ PKI Signature: MAC-Equivalent                                                  
+                                                                                                                                                                
+                                                                                
+ Reprint From MFA-0000-000000                                                   
+                                                                                
+ ***    Authentication Result: Success    ***                                   
+ Instance Type and Transmission                                                 
+                                                                                
+ ***                                    Original                                
+ received from SWIFT                                                            
+ ***                                Priority Normal                             
+                                    :                                           
+ ***                                Message  0938 171218BSONBDDHAXXX2596250269  
+                                    Output                                      
+                                    Reference                                   
+                                    :                                           
+ Correspondent   0315171218CITIGB2LCXXX4823704409                               
+ Input Reference                                                                
+ :                                                                              
+ Message Header                                                                 
+                                                                                
+ Swift Output:   FIN 103.STP Single Customer Credt Transfer                     
+ Sender :        CITIGB2LXXX                                                    
+                 CITIBANK N.A.                                                  
+       LONDON                                          GB                       
+ Receiver :      BSONBDDHXXX                                                    
+                 SONALI BANK LIMITED                                            
+                 DHAKA BD                                                       
+ MUR :           17C1408172000O01                                               
+ Message Text                                                                   
+                                                                                
+ F20: Sender's Reference                                                        
+           3761068935                                                           
+ F23B: Bank Operation Code                                                      
+           CRED                                                                 
+ F32A: Value Date/Currency/Interbank Settled Amount                             
+           Date:          171218          2017 Dec 18                           
+           Currency:          GBP          POUND STERLING                       
+           Amount:          185,28          #185,28#                            
+ F33B: Currency/Instructed Amount                                               
+           Currency:          GBP          POUND STERLING                       
+           Amount:          185,28          #185,28#                            
+ F50K: Ordering Customer - Account - Name and Address                           
+           Account:                                                             
+                     /085340001                                                 
+           Name and Address:                                                    
+                     STATE PENSION AND WIDOWS BENEFITS                          
+                     TYNEVIEW PARK                                              
+                     NEWCASTLE UPON TYNE                                        
+                     GREAT BRITAIN GB NE98 1BA                                  
+ F52A: Ordering Institution                                                     
+           Party Identifier:                                                    
+                     /0085340000                                                
+           Identifier Code:                                                     
+                     CITIIE2XXXX                                                
+                               CITIBANK EUROPE PLC                              
+                                                                                
+                               DUBLIN IE                                        
+ F53A: Sender's Correspondent - Party Identifier - Identifier Code              
+           Identifier Code:                                                     
+                     SCBLGB2LXXX                                                
+                               STANDARD CHARTERED BANK                          
+                               (ALL U.K. OFFICES)                               
+                               LONDON GB                                        
+ F59: Beneficiary Customer - Account - Name and Address                         
+           Account:                                                             
+                     /002087784                                                 
+           Name and Address:          KR DAS                                    
+ F70: Remittance Information                                                    
+           BANK CODE 0000157091                                                 
+           /ROC/SG497764A                                                       
+ F71A: Details of Charges                                                       
+           OUR                                                                  
+ F72: Sender to Receiver Information                                            
+ Line1: Line 1                                                                  
+           Code:          /BNF/                                                 
+           Narrative:          SONALI BANK LIMITED NOBIGONJ                     
+ Lines2to6: Lines 2-6                                                           
+           Lines2to6: Lines 2-6:          Narrative1                            
+           Narrative1:          //BRANCH PS NOIGONJ DIST H OBIGONJ              
+           Lines2to6: Lines 2-6:          Narrative1                            
+           Narrative1:          //BANGLADESH                                    
+ Message Trailer                                                                
+                                                                                
+ {CHK:64D52EF3F539}                                                             
+ PKI Signature: MAC-Equivalent                                                  
+                                                                                                                                                                
+                                                                                
+ Reprint From MFA-0000-000000                                                   
+                                                                                
+ ***    Authentication Result: Success    ***                                   
+ Instance Type and Transmission                                                 
+                                                                                
+ ***                                    Original                                
+ received from SWIFT                                                            
+ ***                                Priority Normal                             
+                                    :                                           
+ ***                                Message  0938 171218BSONBDDHAXXX2596250268  
+                                    Output                                      
+                                    Reference                                   
+                                    :                                           
+ Correspondent   0315171218CITIGB2LEXXX3726283283                               
+ Input Reference                                                                
+ :                                                                              
+ Message Header                                                                 
+                                                                                
+ Swift Output:   FIN 103.STP Single Customer Credt Transfer                     
+ Sender :        CITIGB2LXXX                                                    
+                 CITIBANK N.A.                                                  
+       LONDON                                          GB                       
+ Receiver :      BSONBDDHXXX                                                    
+                 SONALI BANK LIMITED                                            
+                 DHAKA BD                                                       
+ MUR :           17C1408172000R00                                               
+ Message Text                                                                   
+                                                                                
+ F20: Sender's Reference                                                        
+           3761068931                                                           
+ F23B: Bank Operation Code                                                      
+           CRED                                                                 
+ F32A: Value Date/Currency/Interbank Settled Amount                             
+           Date:          171218          2017 Dec 18                           
+           Currency:          GBP          POUND STERLING                       
+           Amount:          88,16          #88,16#                              
+ F33B: Currency/Instructed Amount                                               
+           Currency:          GBP          POUND STERLING                       
+           Amount:          88,16          #88,16#                              
+ F50K: Ordering Customer - Account - Name and Address                           
+           Account:                                                             
+                     /085340001                                                 
+           Name and Address:                                                    
+                     STATE PENSION AND WIDOWS BENEFITS                          
+                     TYNEVIEW PARK                                              
+                     NEWCASTLE UPON TYNE                                        
+                     GREAT BRITAIN GB NE98 1BA                                  
+ F52A: Ordering Institution                                                     
+           Party Identifier:                                                    
+                     /0085340000                                                
+           Identifier Code:                                                     
+                     CITIIE2XXXX                                                
+                               CITIBANK EUROPE PLC                              
+                                                                                
+                               DUBLIN IE                                        
+ F53A: Sender's Correspondent - Party Identifier - Identifier Code              
+           Identifier Code:                                                     
+                     SCBLGB2LXXX                                                
+                               STANDARD CHARTERED BANK                          
+                               (ALL U.K. OFFICES)                               
+                               LONDON GB                                        
+ F59: Beneficiary Customer - Account - Name and Address                         
+           Account:                                                             
+                     /2459                                                      
+           Name and Address:          MONOWARA BEGUM                            
+ F70: Remittance Information                                                    
+           BANK CODE 0000156036                                                 
+           /ROC/PW479169B                                                       
+ F71A: Details of Charges                                                       
+           OUR                                                                  
+ F72: Sender to Receiver Information                                            
+ Line1: Line 1                                                                  
+           Code:          /BNF/                                                 
+           Narrative:          SONALI TRADE AND FINANCE                         
+ Lines2to6: Lines 2-6                                                           
+           Lines2to6: Lines 2-6:          Narrative1                            
+           Narrative1:          //BALAGANJ SYLHET                               
+ Message Trailer                                                                
+                                                                                
+ {CHK:B78BFFD97ACA}                                                             
+ PKI Signature: MAC-Equivalent                                                  
+                                                                                                                                                                
+                                                                                
+ Reprint From MFA-0000-000000                                                   
+                                                                                
+ ***    Authentication Result: Success    ***                                   
+ Instance Type and Transmission                                                 
+                                                                                
+ ***                                    Original                                
+ received from SWIFT                                                            
+ ***                                Priority Normal                             
+                                    :                                           
+ ***                                Message  0938 171218BSONBDDHAXXX2596250267  
+                                    Output                                      
+                                    Reference                                   
+                                    :                                           
+ Correspondent   0315171218CITIGB2LBXXX7227389599                               
+ Input Reference                                                                
+ :                                                                              
+ Message Header                                                                 
+                                                                                
+ Swift Output:   FIN 103.STP Single Customer Credt Transfer                     
+ Sender :        CITIGB2LXXX                                                    
+                 CITIBANK N.A.                                                  
+       LONDON                                          GB                       
+ Receiver :      BSONBDDHXXX                                                    
+                 SONALI BANK LIMITED                                            
+                 DHAKA BD                                                       
+ MUR :           17C1408171900P00                                               
+ Message Text                                                                   
+                                                                                
+ F20: Sender's Reference                                                        
+           3761068911                                                           
+ F23B: Bank Operation Code                                                      
+           CRED                                                                 
+ F32A: Value Date/Currency/Interbank Settled Amount                             
+           Date:          171218          2017 Dec 18                           
+           Currency:          GBP          POUND STERLING                       
+           Amount:          165,28          #165,28#                            
+ F33B: Currency/Instructed Amount                                               
+           Currency:          GBP          POUND STERLING                       
+           Amount:          165,28          #165,28#                            
+ F50K: Ordering Customer - Account - Name and Address                           
+           Account:                                                             
+                     /085340001                                                 
+           Name and Address:                                                    
+                     STATE PENSION AND WIDOWS BENEFITS                          
+                     TYNEVIEW PARK                                              
+                     NEWCASTLE UPON TYNE                                        
+                     GREAT BRITAIN GB NE98 1BA                                  
+ F52A: Ordering Institution                                                     
+           Party Identifier:                                                    
+                     /0085340000                                                
+           Identifier Code:                                                     
+                     CITIIE2XXXX                                                
+                               CITIBANK EUROPE PLC                              
+                                                                                
+                               DUBLIN IE                                        
+ F53A: Sender's Correspondent - Party Identifier - Identifier Code              
+           Identifier Code:                                                     
+                     SCBLGB2LXXX                                                
+                               STANDARD CHARTERED BANK                          
+                               (ALL U.K. OFFICES)                               
+                               LONDON GB                                        
+ F59: Beneficiary Customer - Account - Name and Address                         
+           Account:                                                             
+                     /10477                                                     
+           Name and Address:          AMINA BEGUM                               
+ F70: Remittance Information                                                    
+           BANK CODE 0000159063                                                 
+           /ROC/SR524976A                                                       
+ F71A: Details of Charges                                                       
+           OUR                                                                  
+ F72: Sender to Receiver Information                                            
+ Line1: Line 1                                                                  
+           Code:          /BNF/                                                 
+           Narrative:          SONALI BANK JAGANNATHPUR                         
+ Lines2to6: Lines 2-6                                                           
+           Lines2to6: Lines 2-6:          Narrative1                            
+           Narrative1:          //BRANCH                                        
+ Message Trailer                                                                
+                                                                                
+ {CHK:19F4E5306A1A}                                                             
+ PKI Signature: MAC-Equivalent                                                  
+                                                                                                                                                                
+                                                                                
+ Reprint From MFA-0000-000000                                                   
+                                                                                
+ ***    Authentication Result: Success    ***                                   
+ Instance Type and Transmission                                                 
+                                                                                
+ ***                                    Original                                
+ received from SWIFT                                                            
+ ***                                Priority Normal                             
+                                    :                                           
+ ***                                Message  0938 171218BSONBDDHAXXX2596250266  
+                                    Output                                      
+                                    Reference                                   
+                                    :                                           
+ Correspondent   0315171218CITIGB2LBXXX7227389583                               
+ Input Reference                                                                
+ :                                                                              
+ Message Header                                                                 
+                                                                                
+ Swift Output:   FIN 103.STP Single Customer Credt Transfer                     
+ Sender :        CITIGB2LXXX                                                    
+                 CITIBANK N.A.                                                  
+       LONDON                                          GB                       
+ Receiver :      BSONBDDHXXX                                                    
+                 SONALI BANK LIMITED                                            
+                 DHAKA BD                                                       
+ MUR :           17C1408172006701                                               
+ Message Text                                                                   
+                                                                                
+ F20: Sender's Reference                                                        
+           3761068938                                                           
+ F23B: Bank Operation Code                                                      
+           CRED                                                                 
+ F32A: Value Date/Currency/Interbank Settled Amount                             
+           Date:          171218          2017 Dec 18                           
+           Currency:          GBP          POUND STERLING                       
+           Amount:          490,6          #490,6#                              
+ F33B: Currency/Instructed Amount                                               
+           Currency:          GBP          POUND STERLING                       
+           Amount:          490,6          #490,6#                              
+ F50K: Ordering Customer - Account - Name and Address                           
+           Account:                                                             
+                     /085340001                                                 
+           Name and Address:                                                    
+                     STATE PENSION AND WIDOWS BENEFITS                          
+                     TYNEVIEW PARK                                              
+                     NEWCASTLE UPON TYNE                                        
+                     GREAT BRITAIN GB NE98 1BA                                  
+ F52A: Ordering Institution                                                     
+           Party Identifier:                                                    
+                     /0085340000                                                
+           Identifier Code:                                                     
+                     CITIIE2XXXX                                                
+                               CITIBANK EUROPE PLC                              
+                                                                                
+                               DUBLIN IE                                        
+ F53A: Sender's Correspondent - Party Identifier - Identifier Code              
+           Identifier Code:                                                     
+                     SCBLGB2LXXX                                                
+                               STANDARD CHARTERED BANK                          
+                               (ALL U.K. OFFICES)                               
+                               LONDON GB                                        
+ F59: Beneficiary Customer - Account - Name and Address                         
+           Account:                                                             
+                     /34031012                                                  
+           Name and Address:          FOYZUN NESSA                              
+ F70: Remittance Information                                                    
+           BANK CODE 0000156101                                                 
+           /ROC/SP384764A                                                       
+ F71A: Details of Charges                                                       
+           OUR                                                                  
+ F72: Sender to Receiver Information                                            
+ Line1: Line 1                                                                  
+           Code:          /BNF/                                                 
+           Narrative:          SONALI BANK DARGAGATE                            
+ Lines2to6: Lines 2-6                                                           
+           Lines2to6: Lines 2-6:          Narrative1                            
+           Narrative1:          //CORPORATE BRANCH SYLHET                       
+           Lines2to6: Lines 2-6:          Narrative1                            
+           Narrative1:          //BANGLADESH                                    
+ Message Trailer                                                                
+                                                                                
+ {CHK:612E27864745}                                                             
+ PKI Signature: MAC-Equivalent                                                  
+                                                                                                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+ Report Footer                                                                  
+                                                                                
+                                                                                
+   Number of         12                                                         
+   Entities:                                                                    
+   End of report                                                                
+                                                                                
